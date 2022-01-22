@@ -1,13 +1,7 @@
 <h1 align="center">Hello World👋, I'm Cédric</h1>
 <h3 align="center">A passionate Full-Stack developer from QC, Canada.</h3>
 
-- 🌱 I’m currently learning **TypeScript, TailwindCSS, C# delegates and events**
-
 - 🌍 View my website [https://www.cedricao.com](https://www.cedricao.com)
-
-- 💬 Ask me about **How much I love REST APIs**
-
-- ⚡ Fun fact **I procrastinate (only sometimes...)**
 
 <p align="left">
 </p>
