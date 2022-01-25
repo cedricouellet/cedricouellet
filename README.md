@@ -1,9 +1,10 @@
 <h1 align="center">Hello World👋, I'm Cédric</h1>
 <h3 align="center">A passionate Full-Stack developer from QC, Canada.</h3>
 
-- 🌍 View my website [https://www.cedricao.com](https://www.cedricao.com)
-- 💬 View my real-time chatting app [https://no-chat-server.herokuapp.com](https://no-chat-server.herokuapp.com)
+- 🌍 Check out my website [https://www.cedricao.com](https://www.cedricao.com)
+- 💬 Try out my real-time chatroom app [https://no-chat-server.herokuapp.com](https://no-chat-server.herokuapp.com)
 
+- 💡 Recently I learned: **How to build a Windows installation wizard for .NET apps**
 <p align="left">
 </p>
 
