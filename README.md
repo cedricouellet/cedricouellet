@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from QC, Canada.</h3>
 
 - 🌍 View my website [https://www.cedricao.com](https://www.cedricao.com)
+- 💬 View my real-time chatting app [https://no-chat-server.herokuapp.com](https://no-chat-server.herokuapp.com)
 
 <p align="left">
 </p>
