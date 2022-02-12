@@ -1,10 +1,8 @@
-<h1 align="center">Hello World👋, I'm Cédric</h1>
-<h3 align="center">A passionate Full-Stack developer from QC, Canada.</h3>
+<h1 align="center">cedricouellet</h1>
+<h3 align="center"><s>Full-Stack</s> Back-end developer from QC, Canada.</h3>
 
-- 🌍 Check out my website [https://www.cedricao.com](https://www.cedricao.com)
-- 💬 Try out my real-time chatroom app [https://no-chat-server.herokuapp.com](https://no-chat-server.herokuapp.com)
-
-- 💡 Recently I learned: **How to build a Windows installation wizard for .NET apps**
+- 🌍 Website [https://www.cedricao.com](https://www.cedricao.com)
+- 💬 NoChat [https://no-chat-server.herokuapp.com](https://no-chat-server.herokuapp.com)
 <p align="left">
 </p>
 
