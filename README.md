@@ -1,4 +1,4 @@
-<h1 align="center">cedricouellet</h1>
+<h1 align="center">Cédric-A. Ouellet</h1>
 <h3 align="center"><s>Full-Stack</s> Back-end developer from QC, Canada.</h3>
 
 - 🌍 Website [https://www.cedricao.com](https://www.cedricao.com)
