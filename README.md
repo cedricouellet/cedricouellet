@@ -1,8 +1,6 @@
 <h1 align="center">CAO</h1>
 <h3 align="center">Canadian Programmer-Analyst</h3>
 
-- 🌍 Website [https://www.cedricao.com](https://www.cedricao.com)
-- 💬 NoChat [https://no-chat-server.herokuapp.com](https://no-chat-server.herokuapp.com)
 <p align="left">
 </p>
 
