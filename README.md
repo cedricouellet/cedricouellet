@@ -1,6 +1,6 @@
 <h1>👇 About Me</h1>
 
-I've been a code monkey for a bit over 5 years (including my time learning how to talk to computers).
+I began my journey as a code monkey about 6 years ago.
 
 I am quite passionate about programming in general, but I have a soft spot for working on the backend side of things, including database architecture and development. 
 
